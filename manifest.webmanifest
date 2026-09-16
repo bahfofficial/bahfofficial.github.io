@@ -1,0 +1,30 @@
+{
+  "name": "Learning OS",
+  "short_name": "Learning OS",
+  "description": "Live-rep learning shell. Cause learning, do not only consume.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#c5ccd6",
+  "theme_color": "#ececf1",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
