@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <defs>
+    <linearGradient id="bezel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f3f6"/>
+      <stop offset="0.42" stop-color="#c8cdd6"/>
+      <stop offset="1" stop-color="#9aa3b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" fill="#c5ccd6"/>
+  <rect x="14" y="14" width="152" height="152" rx="26" fill="url(#bezel)" stroke="#8b939f" stroke-width="2"/>
+  <rect x="30" y="34" width="120" height="86" rx="8" fill="#111214"/>
+  <text x="90" y="88" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="40" font-weight="700" fill="#30d158">OS</text>
+  <circle cx="90" cy="141" r="8" fill="#d9dde4" stroke="#7d8592" stroke-width="2"/>
+</svg>
