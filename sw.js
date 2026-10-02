@@ -1,9 +1,9 @@
-const CACHE = "learning-os-shell-v3";
+const CACHE = "learning-os-shell-v4";
 const PRECACHE = [
   "./",
   "./index.html",
-  "./assets/index-qnqvst_M.js",
-  "./assets/index-UyJLKIlF.css",
+  "./assets/index-CJj4pgzK.js",
+  "./assets/index-CvzE1RB4.css",
   "./manifest.webmanifest",
   "./favicon.svg",
   "./icons/icon-192.png",

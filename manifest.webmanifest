@@ -1,7 +1,7 @@
 {
   "name": "Learning OS",
   "short_name": "Learning OS",
-  "description": "Live-rep learning shell. Cause learning, do not only consume.",
+  "description": "Live-rep learning. Cause learning. Do not only watch.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
